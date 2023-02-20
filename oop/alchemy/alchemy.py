@@ -1,4 +1,4 @@
-"""Alchemyy."""
+"""Alchemy m."""
 
 class AlchemicalElement:
     """
