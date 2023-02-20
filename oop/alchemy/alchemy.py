@@ -74,7 +74,7 @@ class AlchemicalStorage:
              * Water x 1
 
         The elements must be sorted alphabetically by name.
-        Lol
+
         :return: Content as a string.
         """
         return ''
